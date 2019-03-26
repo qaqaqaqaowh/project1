@@ -1,2 +1,2 @@
 def say_bye():
-	print("BYE")
+	print("CHING CHONG CHINESE BOI")
