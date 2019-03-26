@@ -5,3 +5,6 @@ def say_bye():
 
 def neversay_bye():
 	print("Hello")
+
+def say_bye():
+	print("BYE Github")
